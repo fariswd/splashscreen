@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/background_spark"
+        android:width="1200px"
+        android:gravity="center_horizontal" />
+
+    <item
+        android:drawable="@drawable/logo_splash"
+        android:width="500px"
+        android:height="200px"
+        android:gravity="center|center_horizontal|center_vertical" />
+
+</layer-list>
